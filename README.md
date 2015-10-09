@@ -18,3 +18,7 @@ unless want to be able to go back to an older version.
 This is the third change. I installed Git Desktop and it opened with ProgrammingAssignment2 and Other datasciencecoursera. PA2 has cachematrix.R. the other says no local changes. It looks like cachematrix.R is same on GitHUb. When I 'explored' the second one it brought me to local folder Chuck\reponame which has a .git folder with other stuff. When I changed the PA view to Changes it also said no local changes and exploring brought me another local folder.
 
 BUt why are these the only 2 repos shown in GitDesktop??? So I am going to try to Clone the PRactice repo.
+
+And Cloning was easy. I let if create the local repo under github. 
+
+Now lets try syncing this change on Github to local.
