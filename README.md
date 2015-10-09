@@ -29,4 +29,6 @@ So how to make a change locally and push it up?
 	I took a chance and am editing the local file directly. PROBABLY NOT A GOOD IDEA!
 	WELL THAT WORKED. I am doing it over to keep better track this time.
 
+	Edit - shows up in desktop. Enter Description, Click Commmit, Click Pull 
+
 	  
