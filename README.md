@@ -21,4 +21,11 @@ BUt why are these the only 2 repos shown in GitDesktop??? So I am going to try t
 
 And Cloning was easy. I let if create the local repo under github. 
 
-Now lets try syncing this change on Github to local. ####   
+Now lets try syncing this change on Github to local. #### - That worked great using the Sync Button.
+
+So how to make a change locally and push it up?
+
+	Created new branch on desktop. Switched to the branch and it has the empty, do you want to explore.
+	I took a chance and am editing the local file directly. PROBABLY NOT A GOOD IDEA!
+
+	  
