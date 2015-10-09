@@ -10,3 +10,7 @@ When you Commit you tell it which branch. Below is quote from the GIT Help
       and then create a pull request. 
       
 So I will create a new branch but not sure why.
+
+This is the second change. The new branch was so the "owner" of the project could decide if my 
+changes should be added. When only one person is working on a small project probably not important
+unless want to be able to go back to an older version.
