@@ -21,4 +21,4 @@ BUt why are these the only 2 repos shown in GitDesktop??? So I am going to try t
 
 And Cloning was easy. I let if create the local repo under github. 
 
-Now lets try syncing this change on Github to local.
+Now lets try syncing this change on Github to local. ####   
