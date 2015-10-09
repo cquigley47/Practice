@@ -15,4 +15,4 @@ This is the second change. The new branch was so the "owner" of the project coul
 changes should be added. When only one person is working on a small project probably not important
 unless want to be able to go back to an older version.
 
-This is the third change. I installed Git Desktop and it opened with ProgrammingAssignment2 and Other datasciencecoursera. PA2 has cachematrix.R. the other says no local changes.
+This is the third change. I installed Git Desktop and it opened with ProgrammingAssignment2 and Other datasciencecoursera. PA2 has cachematrix.R. the other says no local changes. It looks like cachematrix.R is same on GitHUb. 
