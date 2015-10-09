@@ -27,5 +27,6 @@ So how to make a change locally and push it up?
 
 	Created new branch on desktop. Switched to the branch and it has the empty, do you want to explore.
 	I took a chance and am editing the local file directly. PROBABLY NOT A GOOD IDEA!
+	WELL THAT WORKED. I am doing it over to keep better track this time.
 
 	  
